@@ -1,0 +1,1099 @@
+﻿Log file open, 10/02/22 15:31:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Chess
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.074605
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.02-12.31.37:093][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.02-12.31.37:093][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.02-12.31.37:093][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../Projects/Chess/Saved/Config/Windows/Engine.ini]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../Projects/Chess/Saved/Config/Windows/Engine.ini]
+[2022.10.02-12.31.37:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Projects/Chess/Saved/Config/Windows/Engine.ini]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../Projects/Chess/Saved/Config/Windows/Engine.ini]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.02-12.31.37:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../Projects/Chess/Saved/Config/Windows/Engine.ini]
+[2022.10.02-12.31.37:094][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../Projects/Chess/Saved/Config/Windows/Engine.ini]
+[2022.10.02-12.31.37:097][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.02-12.31.37:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.10.02-12.31.37:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.10.02-12.31.37:098][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.02-12.31.37:098][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.02-12.31.37:101][  0]LogHAL: Display: Platform has ~ 8 GB [8464355328 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.02-12.31.37:101][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.02-12.31.37:101][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.02-12.31.37:101][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Projects/Chess/Saved/Config/Windows/Scalability.ini]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.10.02-12.31.37:102][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.02-12.31.37:103][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.02-12.31.37:103][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.02-12.31.37:103][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Projects/Chess/Saved/Config/Windows/Engine.ini]
+[2022.10.02-12.31.37:103][  0]LogInit: Computer: DESKTOP-A8J3RTE
+[2022.10.02-12.31.37:103][  0]LogInit: User: Admin
+[2022.10.02-12.31.37:103][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.02-12.31.37:103][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.02-12.31.37:103][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.10.02-12.31.37:103][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.02-12.31.37:103][  0]LogMemory: Process Physical Memory: 107.06 MB used, 107.06 MB peak
+[2022.10.02-12.31.37:103][  0]LogMemory: Process Virtual Memory: 100.59 MB used, 100.59 MB peak
+[2022.10.02-12.31.37:103][  0]LogMemory: Physical Memory: 5910.89 MB used,  2161.35 MB free, 8072.24 MB total
+[2022.10.02-12.31.37:103][  0]LogMemory: Virtual Memory: 5145.91 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2022.10.02-12.31.37:105][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.02-12.31.37:137][  0]LogInit: Using OS detected language (en-US).
+[2022.10.02-12.31.37:137][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.02-12.31.37:137][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.10.02-12.31.37:277][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.02-12.31.37:383][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.02-12.31.37:383][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.02-12.31.37:552][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.02-12.31.37:552][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.02-12.31.37:552][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.02-12.31.37:552][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.02-12.31.37:628][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2022.10.02-12.31.37:628][  0]LogD3D11RHI:       2996/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.10.02-12.31.37:651][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.10.02-12.31.37:651][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.10.02-12.31.37:653][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.02-12.31.37:653][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.02-12.31.37:653][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.10.02-12.31.37:659][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.02-12.31.37:659][  0]LogD3D11RHI:     GPU DeviceId: 0x1c91 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.02-12.31.37:659][  0]LogWindows: EnumDisplayDevices:
+[2022.10.02-12.31.37:659][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.10.02-12.31.37:659][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.10.02-12.31.37:659][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.10.02-12.31.37:660][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.10.02-12.31.37:660][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.10.02-12.31.37:660][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.10.02-12.31.37:660][  0]LogD3D11RHI:   Driver Version: 471.96 (internal:30.0.14.7196, unified:471.96)
+[2022.10.02-12.31.37:660][  0]LogD3D11RHI:      Driver Date: 8-27-2021
+[2022.10.02-12.31.37:660][  0]LogRHI: Texture pool is 2097 MB (70% of 2996 MB)
+[2022.10.02-12.31.37:712][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.02-12.31.37:712][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.02-12.31.37:746][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.02-12.31.38:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.10.02-12.31.38:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.02-12.31.38:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.02-12.31.38:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.02-12.31.38:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.02-12.31.38:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.02-12.31.38:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.02-12.31.38:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.02-12.31.38:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.10.02-12.31.38:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.10.02-12.31.38:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.10.02-12.31.38:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.10.02-12.31.38:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.10.02-12.31.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.02-12.31.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.02-12.31.38:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.02-12.31.38:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.02-12.31.38:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.02-12.31.38:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.02-12.31.38:161][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.02-12.31.38:163][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.02-12.31.38:181][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (../../../Projects/Chess/Intermediate/Shaders/WorkingDirectory/11548/).
+[2022.10.02-12.31.38:181][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/481D19CB44375FB4D55B639FE12E9926/'.
+[2022.10.02-12.31.38:182][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2022.10.02-12.31.38:874][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.02-12.31.38:941][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Admin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.10.02-12.31.38:941][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.10.02-12.31.38:941][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../Projects/Chess/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.02-12.31.38:941][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.02-12.31.38:941][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../Projects/Chess/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.02-12.31.38:941][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.02-12.31.38:950][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.02-12.31.38:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.02-12.31.38:950][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.02-12.31.38:951][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.02-12.31.38:951][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.02-12.31.38:951][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.02-12.31.38:974][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.10.02-12.31.38:976][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.02-12.31.38:977][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.02-12.31.39:022][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.10.02-12.31.39:257][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.02-12.31.39:388][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.02-12.31.39:388][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.02-12.31.39:388][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.02-12.31.39:388][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.02-12.31.39:388][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.02-12.31.39:398][  0]LogNetVersion: Chess 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 956810394)
+[2022.10.02-12.31.40:441][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.109698 seconds
+[2022.10.02-12.31.40:448][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.10.02-12.31.40:448][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.10.02-12.31.40:448][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.02-12.31.40:825][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.02-12.31.40:827][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.02-12.31.40:904][  0]SourceControl: Source control is disabled
+[2022.10.02-12.31.40:904][  0]SourceControl: Source control is disabled
+[2022.10.02-12.31.40:905][  0]SourceControl: Source control is disabled
+[2022.10.02-12.31.40:906][  0]SourceControl: Source control is disabled
+[2022.10.02-12.31.40:906][  0]SourceControl: Source control is disabled
+[2022.10.02-12.31.40:994][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.02-12.31.41:002][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.02-12.31.41:002][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.02-12.31.41:070][  0]LogOcInput: OculusInput pre-init called
+[2022.10.02-12.31.41:075][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.10.02-12.31.41:075][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.10.02-12.31.41:130][  0]LogEngine: Initializing Engine...
+[2022.10.02-12.31.41:132][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.02-12.31.41:132][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.02-12.31.41:423][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.02-12.31.41:429][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.02-12.31.41:448][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.02-12.31.41:448][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.02-12.31.41:448][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.02-12.31.41:448][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.02-12.31.41:448][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.02-12.31.41:448][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.02-12.31.41:448][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.02-12.31.41:448][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.02-12.31.41:449][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.02-12.31.41:449][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: Name: Динамики (Realtek(R) Audio)
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: Channel Order:
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.02-12.31.41:463][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.02-12.31.41:748][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.10.02-12.31.41:756][  0]LogInit: FAudioDevice initialized.
+[2022.10.02-12.31.41:756][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.02-12.31.41:807][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/Admin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.10.02-12.31.41:808][  0]LogInit: Texture streaming: Enabled
+[2022.10.02-12.31.41:816][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.02-12.31.41:816][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.02-12.31.41:818][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.02-12.31.41:903][  0]LogInit: Transaction tracking system initialized
+[2022.10.02-12.31.41:910][  0]BlueprintLog: New page: Editor Load
+[2022.10.02-12.31.41:933][  0]LocalizationService: Localization service is disabled
+[2022.10.02-12.31.42:312][  0]LogFileCache: Scanning file cache for directory 'E:/UE_4.24/Projects/Chess/Content/' took 0.02s
+[2022.10.02-12.31.42:312][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.10.02-12.31.42:312][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.02-12.31.42:842][  0]SourceControl: Source control is disabled
+[2022.10.02-12.31.42:842][  0]Cmd: MAP LOAD FILE="../../../Projects/Chess/Content/Chess/Maps/TestMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.02-12.31.42:887][  0]LightingResults: New page: Lighting Build
+[2022.10.02-12.31.42:888][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-12.31.42:888][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.31.42:888][  0]MapCheck: New page: Map Check
+[2022.10.02-12.31.42:888][  0]LightingResults: New page: Lighting Build
+[2022.10.02-12.31.42:910][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.02-12.31.45:282][  0]LogAIModule: Creating AISystem for world TestMap1
+[2022.10.02-12.31.45:385][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.02-12.31.45:410][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.10.02-12.31.45:411][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.02-12.31.45:411][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2022.10.02-12.31.45:411][  0]LogFileHelpers: Loading map 'TestMap1' took 2.570
+[2022.10.02-12.31.46:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-12.31.46:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-12.31.46:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-12.31.46:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-12.31.47:096][  0]LogCollectionManager: Loaded 0 collections in 0.002991 seconds
+[2022.10.02-12.31.47:386][  0]LogFileCache: Scanning file cache for directory 'E:/UE_4.24/Projects/Chess/Saved/Collections/' took 0.00s
+[2022.10.02-12.31.47:386][  0]LogFileCache: Scanning file cache for directory 'E:/UE_4.24/Projects/Chess/Content/Developers/Admin/Collections/' took 0.00s
+[2022.10.02-12.31.47:386][  0]LogFileCache: Scanning file cache for directory 'E:/UE_4.24/Projects/Chess/Content/Collections/' took 0.00s
+[2022.10.02-12.31.47:386][  0]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 3015 classes and 717 folders.
+[2022.10.02-12.31.47:477][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.02-12.31.49:878][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.02-12.31.49:958][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.10.02-12.31.51:319][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.02-12.31.51:321][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.02-12.31.51:446][  0]LogSlate: Took 0.097990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.02-12.31.51:975][  0]LogRenderer: Reallocating scene render targets to support 892x416 Format 10 NumSamples 1 (Frame:1).
+[2022.10.02-12.31.52:296][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.02-12.31.52:296][  0]LogLoad: (Engine Initialization) Total time: 17.37 seconds
+[2022.10.02-12.31.52:296][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.02-12.31.52:357][  0]LogAssetRegistry: Asset discovery search completed in 13.3363 seconds
+[2022.10.02-12.31.52:359][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2022.10.02-12.31.52:385][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.02-12.31.52:532][  0]LogSlate: Took 0.017809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.02-12.31.53:329][ 45]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.02-12.32.16:013][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chess/Blueprints/BP_GameMode.BP_GameMode
+[2022.10.02-12.32.16:683][382]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2022.10.02-12.32.18:305][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chess/Blueprints/BP_Player.BP_Player
+[2022.10.02-12.32.18:687][382]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Chess/UI/UI_Main.UI_Main
+[2022.10.02-12.32.20:198][382]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.02-12.32.27:484][768]LogSlate: Took 0.013292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.02-12.32.32:827][ 75]LogRenderer: Reallocating scene render targets to support 912x512 Format 10 NumSamples 1 (Frame:1).
+[2022.10.02-12.33.07:230][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.02-12.33.07:385][ 75]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.02-12.33.07:393][ 75]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2022.10.02-12.33.08:253][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.10.02-12.33.08:253][ 75]LogPlayLevel: PlayLevel: Blueprint regeneration took 868 ms (1 blueprints)
+[2022.10.02-12.33.08:301][ 75]PIE: New page: PIE session: TestMap1 (Oct 2, 2022, 6:33:08 PM)
+[2022.10.02-12.33.08:308][ 75]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.02-12.33.08:326][ 75]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.02-12.33.08:334][ 75]LogPlayLevel: Creating play world package: /Game/Chess/Maps/UEDPIE_0_TestMap1
+[2022.10.02-12.33.08:384][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048995s)
+[2022.10.02-12.33.08:399][ 75]LogAIModule: Creating AISystem for world TestMap1
+[2022.10.02-12.33.08:399][ 75]LogPlayLevel: PIE: World Init took: (0.015550s)
+[2022.10.02-12.33.08:399][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chess/Maps/TestMap1.TestMap1 to /Game/Chess/Maps/UEDPIE_0_TestMap1.TestMap1 (0.065115s)
+[2022.10.02-12.33.08:436][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.10.02-12.33.08:471][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.02-12.33.08:471][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.02-12.33.08:471][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.02-12.33.08:471][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.02-12.33.08:471][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.02-12.33.08:471][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.02-12.33.08:471][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.02-12.33.08:471][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.02-12.33.08:472][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.02-12.33.08:472][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: Name: Динамики (Realtek(R) Audio)
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: Is Default: Yes
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: Sample Rate: 48000
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: Channel Count Used: 2
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: Device Channel Count: 2
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: Channel Order:
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.02-12.33.08:477][ 75]LogAudioMixer: Display: 1: FrontRight
+[2022.10.02-12.33.08:493][ 75]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.10.02-12.33.08:494][ 75]LogInit: FAudioDevice initialized.
+[2022.10.02-12.33.08:567][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-12.33.08:571][ 75]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.02-12.33.08:585][ 75]LogWorld: Bringing World /Game/Chess/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2022.10.02-15.33.08
+[2022.10.02-12.33.08:605][ 75]LogWorld: Bringing up level for play took: 0.032096
+[2022.10.02-12.33.08:606][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.10.02-12.33.08:817][ 75]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.10.02-12.33.09:155][ 75]PIE: Play in editor start time for /Game/Chess/Maps/UEDPIE_0_TestMap1 1.239
+[2022.10.02-12.33.09:471][ 76]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2022.10.02-12.33.25:269][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.02-12.33.25:269][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.02-12.33.25:387][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-12.33.25:387][982]LogWorld: BeginTearingDown for /Game/Chess/Maps/UEDPIE_0_TestMap1
+[2022.10.02-12.33.25:415][982]LogSlate: Window 'Chess Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.02-12.33.25:466][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.02-12.33.25:467][982]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-12.33.25:468][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.33.25:497][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.02-12.33.25:508][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.33.25:565][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.02-12.33.25:644][982]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2022.10.02-12.33.25:743][983]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.02-12.33.34:963][518]BlueprintLog: New page: Compile BP_Player
+[2022.10.02-12.33.35:335][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.10.02-12.33.37:963][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/BP_Player" FILE="../../../Projects/Chess/Content/Chess/Blueprints/BP_Player.uasset" SILENT=true
+[2022.10.02-12.33.38:551][649]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Player68F62C9B4D52922546E1CD8158BA84CF.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/BP_Player.uasset'
+[2022.10.02-12.33.38:594][649]AssetCheck: New page: Asset Save: BP_Player
+[2022.10.02-12.33.38:594][649]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/BP_Player.BP_Player
+[2022.10.02-12.33.39:082][679]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.02-12.33.39:102][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.02-12.33.39:102][679]PIE: New page: PIE session: TestMap1 (Oct 2, 2022, 6:33:39 PM)
+[2022.10.02-12.33.39:102][679]LogPlayLevel: Creating play world package: /Game/Chess/Maps/UEDPIE_0_TestMap1
+[2022.10.02-12.33.39:111][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009012s)
+[2022.10.02-12.33.39:112][679]LogAIModule: Creating AISystem for world TestMap1
+[2022.10.02-12.33.39:112][679]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2022.10.02-12.33.39:112][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chess/Maps/TestMap1.TestMap1 to /Game/Chess/Maps/UEDPIE_0_TestMap1.TestMap1 (0.009924s)
+[2022.10.02-12.33.39:148][679]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.10.02-12.33.39:149][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.02-12.33.39:149][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.02-12.33.39:149][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.02-12.33.39:149][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.02-12.33.39:149][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.02-12.33.39:149][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.02-12.33.39:149][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.02-12.33.39:149][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.02-12.33.39:150][679]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.02-12.33.39:150][679]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: Name: Динамики (Realtek(R) Audio)
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: Is Default: Yes
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: Sample Rate: 48000
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: Channel Count Used: 2
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: Device Channel Count: 2
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: Channel Order:
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.02-12.33.39:154][679]LogAudioMixer: Display: 1: FrontRight
+[2022.10.02-12.33.39:168][679]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.10.02-12.33.39:169][679]LogInit: FAudioDevice initialized.
+[2022.10.02-12.33.39:228][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-12.33.39:228][679]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.02-12.33.39:233][679]LogWorld: Bringing World /Game/Chess/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 60) at 2022.10.02-15.33.39
+[2022.10.02-12.33.39:233][679]LogWorld: Bringing up level for play took: 0.004005
+[2022.10.02-12.33.39:233][679]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.10.02-12.33.39:290][679]PIE: Play in editor start time for /Game/Chess/Maps/UEDPIE_0_TestMap1 -0.626
+[2022.10.02-12.33.51:263][397]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.02-12.33.51:263][397]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.02-12.33.51:263][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-12.33.51:263][397]LogWorld: BeginTearingDown for /Game/Chess/Maps/UEDPIE_0_TestMap1
+[2022.10.02-12.33.51:278][397]LogSlate: Window 'Chess Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.02-12.33.51:283][397]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.02-12.33.51:283][397]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-12.33.51:286][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.33.51:296][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.02-12.33.51:302][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.33.51:354][397]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.02-12.33.51:366][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.10.02-12.33.51:379][398]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.10.02-12.37.59:216][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/UI/UI_Main" FILE="../../../Projects/Chess/Content/Chess/UI/UI_Main.uasset" SILENT=true
+[2022.10.02-12.37.59:556][550]LogSavePackage: Moving '../../../Projects/Chess/Saved/UI_Main37282150488138C62B157BA1CE8AE51E.tmp' to '../../../Projects/Chess/Content/Chess/UI/UI_Main.uasset'
+[2022.10.02-12.37.59:606][550]AssetCheck: New page: Asset Save: UI_Main
+[2022.10.02-12.37.59:606][550]LogContentValidation: Display: Validating WidgetBlueprint /Game/Chess/UI/UI_Main.UI_Main
+[2022.10.02-12.38.35:132][816]LogSlate: Took 0.087410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.10.02-12.39.41:372][682]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-12.39.41:372][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.39.41:402][682]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-12.39.41:402][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.39.42:374][714]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-12.39.42:374][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.39.42:938][744]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.02-12.39.42:938][744]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-12.39.42:938][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-12.39.45:822][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.10.02-13.12.08:501][894]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-13.13.43:849][944]LogEditorTransaction: Undo Straighten Connection(s)
+[2022.10.02-13.14.21:971][490]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2022.10.02-13.14.23:604][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-13.14.23:671][490]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto1845A7FC24E1906A3CF65BEB9DB0AF226.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto1.umap'
+[2022.10.02-13.14.23:852][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 1.938
+[2022.10.02-13.14.23:852][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.938
+[2022.10.02-13.14.23:862][490]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_BoardSquare] ([1] browsable assets)...
+[2022.10.02-13.14.23:927][490]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare]
+[2022.10.02-13.14.23:927][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_BoardSquare]
+[2022.10.02-13.14.23:991][490]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare_Auto156A204924E76944A044E6B9FD2D06BCD.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_BoardSquare_Auto1.uasset'
+[2022.10.02-13.14.23:998][490]LogFileHelpers: Auto-saving content packages took 0.146
+[2022.10.02-13.24.30:326][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.10.02-13.24.30:327][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-13.24.30:368][653]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto298616B974B16D7A36B20E48BFE05FF9A.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto2.umap'
+[2022.10.02-13.24.31:978][653]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 1.687
+[2022.10.02-13.24.31:979][653]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.687
+[2022.10.02-13.24.31:980][653]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_BoardSquare] ([1] browsable assets)...
+[2022.10.02-13.24.32:002][653]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare]
+[2022.10.02-13.24.32:002][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_BoardSquare]
+[2022.10.02-13.24.32:230][653]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare_Auto2C1002CD848A6B138D370DEAA6CB95B15.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_BoardSquare_Auto2.uasset'
+[2022.10.02-13.24.32:230][653]LogFileHelpers: Auto-saving content packages took 0.251
+[2022.10.02-13.26.19:234][194]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Chess/Materials/M_Marker.M_Marker
+[2022.10.02-13.26.19:484][194]LogMaterial: Display: Missing cached shader map for material M_Marker, compiling. 
+[2022.10.02-13.26.20:658][194]LogMaterial: Display: Missing cached shader map for material M_Marker, compiling. 
+[2022.10.02-13.26.20:702][194]LogMaterial: Display: Missing cached shader map for material M_Marker, compiling. 
+[2022.10.02-13.26.20:724][194]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.10.02-13.26.20:733][194]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.10.02-13.26.25:827][462]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-13.26.25:827][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-13.27.05:242][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.10.02-13.27.06:874][ 60]LogSlate: Window 'Save Content' being destroyed
+[2022.10.02-13.27.06:921][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-13.27.06:960][ 60]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare01DE03B94B48B9C6696DB796F65E4852.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-13.27.07:057][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Content/Chess/Maps/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.02-13.27.07:094][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.10.02-13.27.07:136][ 60]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap13BBE99EA46B0593EEFA59E968460FD0C.tmp' to '../../../Projects/Chess/Content/Chess/Maps/TestMap1.umap'
+[2022.10.02-13.27.07:165][ 60]LogFileHelpers: Saving map 'TestMap1' took 0.107
+[2022.10.02-13.27.07:174][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Materials/MI_MarkerChessPiece" FILE="../../../Projects/Chess/Content/Chess/Materials/MI_MarkerChessPiece.uasset" SILENT=true
+[2022.10.02-13.27.07:182][ 60]LogSavePackage: Moving '../../../Projects/Chess/Saved/MI_MarkerChessPieceAA19292E44C24349B57DF1A71B7B4ED1.tmp' to '../../../Projects/Chess/Content/Chess/Materials/MI_MarkerChessPiece.uasset'
+[2022.10.02-13.27.07:211][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.02-13.27.07:211][ 60]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-13.27.07:211][ 60]LogContentValidation: Display: Validating World /Game/Chess/Maps/TestMap1.TestMap1
+[2022.10.02-13.27.07:211][ 60]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Chess/Materials/MI_MarkerChessPiece.MI_MarkerChessPiece
+[2022.10.02-13.27.08:494][133]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Chess/Materials/MI_MarkerChessPiece.MI_MarkerChessPiece
+[2022.10.02-13.27.08:801][133]LogRenderer: Reallocating scene render targets to support 1068x696 Format 10 NumSamples 1 (Frame:1).
+[2022.10.02-13.27.59:982][153]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.02-13.28.03:462][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Materials/MI_MarkerChessPiece" FILE="../../../Projects/Chess/Content/Chess/Materials/MI_MarkerChessPiece.uasset" SILENT=true
+[2022.10.02-13.28.03:493][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.10.02-13.28.03:760][358]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.10.02-13.28.04:761][358]TextureStreamingBuild: Display: Compiling optional shaders took 1.265 seconds.
+[2022.10.02-13.28.04:836][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.02-13.28.04:864][358]LogSavePackage: Moving '../../../Projects/Chess/Saved/MI_MarkerChessPiece9DFBF2D449F9C04401633FA076AC5572.tmp' to '../../../Projects/Chess/Content/Chess/Materials/MI_MarkerChessPiece.uasset'
+[2022.10.02-13.28.04:904][358]AssetCheck: New page: Asset Save: MI_MarkerChessPiece
+[2022.10.02-13.28.04:904][358]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Chess/Materials/MI_MarkerChessPiece.MI_MarkerChessPiece
+[2022.10.02-13.28.06:740][467]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-13.28.06:740][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-13.28.11:715][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.10.02-13.28.32:509][317]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Chess/Materials/MI_MarkerChessPiece.MI_MarkerChessPiece
+[2022.10.02-13.28.38:828][684]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.02-13.28.41:158][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Materials/MI_MarkerChessPiece" FILE="../../../Projects/Chess/Content/Chess/Materials/MI_MarkerChessPiece.uasset" SILENT=true
+[2022.10.02-13.28.41:185][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.10.02-13.28.41:194][819]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.10.02-13.28.42:093][819]TextureStreamingBuild: Display: Compiling optional shaders took 0.907 seconds.
+[2022.10.02-13.28.42:122][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.02-13.28.42:133][819]LogSavePackage: Moving '../../../Projects/Chess/Saved/MI_MarkerChessPieceB10B0A124C4678927C3391828F2E0391.tmp' to '../../../Projects/Chess/Content/Chess/Materials/MI_MarkerChessPiece.uasset'
+[2022.10.02-13.28.42:166][819]AssetCheck: New page: Asset Save: MI_MarkerChessPiece
+[2022.10.02-13.28.42:166][819]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Chess/Materials/MI_MarkerChessPiece.MI_MarkerChessPiece
+[2022.10.02-13.28.42:935][865]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-13.28.42:935][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-13.29.22:295][361]LogSlate: Took 0.028712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.02-13.29.36:722][207]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.29.37:093][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.10.02-13.30.06:769][879]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.30.07:023][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.10.02-13.37.16:681][827]LogEditorTransaction: Undo Move Node
+[2022.10.02-13.37.48:061][683]Cmd: TRANSACTION UNDO
+[2022.10.02-13.37.48:061][683]LogEditorTransaction: Undo Move Node
+[2022.10.02-13.38.17:290][395]LogEditorTransaction: Undo Straighten Connection(s)
+[2022.10.02-13.39.00:654][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.10.02-13.39.00:657][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-13.39.00:699][593]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto3463844B144D9AE3CE496DB9B6C2EE39A.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto3.umap'
+[2022.10.02-13.39.00:700][593]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.083
+[2022.10.02-13.39.00:700][593]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2022.10.02-13.39.00:701][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_BoardSquare] ([1] browsable assets)...
+[2022.10.02-13.39.00:732][593]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare]
+[2022.10.02-13.39.00:732][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_BoardSquare]
+[2022.10.02-13.39.00:771][593]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare_Auto36B4E74B74C2D709175FA3C9FD2CBDC85.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_BoardSquare_Auto3.uasset'
+[2022.10.02-13.39.02:402][593]LogFileHelpers: Auto-saving content packages took 1.702
+[2022.10.02-13.39.52:625][830]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.39.52:876][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.10.02-13.44.27:625][306]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.44.27:923][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.10.02-13.44.51:152][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-13.44.51:307][622]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare18CD9D6449EB55F60744B699510A998D.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-13.44.51:323][622]AssetCheck: New page: Asset Save: BP_BoardSquare
+[2022.10.02-13.44.51:323][622]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-13.48.29:770][480]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.48.30:058][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.10.02-13.49.02:665][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.10.02-13.49.02:666][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-13.49.02:707][631]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto417EB01414EF6FD0DABD99FBBC15AE6D0.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto4.umap'
+[2022.10.02-13.49.03:021][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.390
+[2022.10.02-13.49.03:021][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.390
+[2022.10.02-13.49.03:023][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_BoardSquare] ([1] browsable assets)...
+[2022.10.02-13.49.03:053][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare]
+[2022.10.02-13.49.03:053][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_BoardSquare]
+[2022.10.02-13.49.03:093][631]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare_Auto45E4BD1444F4669F8D8FF23A7ECE083EA.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_BoardSquare_Auto4.uasset'
+[2022.10.02-13.49.03:094][631]LogFileHelpers: Auto-saving content packages took 0.072
+[2022.10.02-13.51.53:411][928]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.51.53:678][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.10.02-13.51.54:579][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-13.51.54:621][973]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare024B21DD4AF871123859349EB6EAAE72.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-13.51.54:633][973]AssetCheck: New page: Asset Save: BP_BoardSquare
+[2022.10.02-13.51.54:633][973]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-13.54.04:343][107]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.54.04:612][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.10.02-13.55.10:870][959]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.55.11:170][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.10.02-13.55.12:539][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-13.55.12:590][ 32]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquareAC2602A2489612D7B9804DBBEAA5DFA1.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-13.55.12:606][ 32]AssetCheck: New page: Asset Save: BP_BoardSquare
+[2022.10.02-13.55.12:606][ 32]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-13.57.55:096][483]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-13.57.55:373][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.10.02-13.57.56:282][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-13.57.56:330][529]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare50B540E547133372419E8F8C0CC47A37.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-13.57.56:345][529]AssetCheck: New page: Asset Save: BP_BoardSquare
+[2022.10.02-13.57.56:345][529]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-13.57.58:148][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.10.02-13.58.00:217][632]LogSlate: Window 'Save Content' being destroyed
+[2022.10.02-13.58.00:253][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Content/Chess/Maps/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.02-13.58.00:285][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.02-13.58.00:334][632]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1976C98A84C0BBC6B6BD6448EF91F67B1.tmp' to '../../../Projects/Chess/Content/Chess/Maps/TestMap1.umap'
+[2022.10.02-13.58.00:367][632]LogFileHelpers: Saving map 'TestMap1' took 0.115
+[2022.10.02-13.58.00:382][632]AssetCheck: New page: Asset Save: TestMap1
+[2022.10.02-13.58.00:382][632]LogContentValidation: Display: Validating World /Game/Chess/Maps/TestMap1.TestMap1
+[2022.10.02-14.01.26:131][579]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board
+[2022.10.02-14.07.58:473][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.10.02-14.07.58:476][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-14.07.58:517][405]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto5DA123BD04A2E4EB6651A14BD4C71584F.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto5.umap'
+[2022.10.02-14.07.58:517][405]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.084
+[2022.10.02-14.07.58:518][405]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.084
+[2022.10.02-14.07.58:518][405]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_Board] ([1] browsable assets)...
+[2022.10.02-14.07.58:529][405]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board]
+[2022.10.02-14.07.58:529][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_Board]
+[2022.10.02-14.07.58:529][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.10.02-14.08.00:335][405]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board_Auto5992D4E9C450D89CE4ADE0FB90F39E402.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto5.uasset'
+[2022.10.02-14.08.00:336][405]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_BoardSquare] ([1] browsable assets)...
+[2022.10.02-14.08.00:346][405]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare]
+[2022.10.02-14.08.00:346][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_BoardSquare]
+[2022.10.02-14.08.00:393][405]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare_Auto512F75880429426E0C9CC97B3D9729192.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_BoardSquare_Auto5.uasset'
+[2022.10.02-14.08.00:393][405]LogFileHelpers: Auto-saving content packages took 1.876
+[2022.10.02-14.09.48:853][ 30]Cmd: TRANSACTION UNDO
+[2022.10.02-14.09.48:853][ 30]LogEditorTransaction: Undo Move Node
+[2022.10.02-14.11.11:810][610]LogEditorTransaction: Undo Create Pin Link
+[2022.10.02-14.11.12:876][659]LogEditorTransaction: Undo Create Pin Link
+[2022.10.02-14.17.11:730][735]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-14.17.11:939][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.10.02-14.17.12:406][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset" SILENT=true
+[2022.10.02-14.17.12:433][758]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardC93875E246794112F6DC28BB5D75685C.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset'
+[2022.10.02-14.17.12:450][758]AssetCheck: New page: Asset Save: BP_Board
+[2022.10.02-14.17.12:450][758]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board
+[2022.10.02-14.17.41:812][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset" SILENT=true
+[2022.10.02-14.17.41:831][ 10]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board22E9E8AC48E45BD1971384B8C91F6B73.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset'
+[2022.10.02-14.17.41:845][ 10]AssetCheck: New page: Asset Save: BP_Board
+[2022.10.02-14.17.41:845][ 10]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board
+[2022.10.02-14.18.16:317][699]LogEditorTransaction: Undo Function Dropped on Graph
+[2022.10.02-14.18.44:770][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.10.02-14.18.44:771][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-14.18.44:813][410]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto6C801556F495A43A1633141A59EF54465.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto6.umap'
+[2022.10.02-14.18.44:814][410]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.078
+[2022.10.02-14.18.44:814][410]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2022.10.02-14.18.44:814][410]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_Board] ([1] browsable assets)...
+[2022.10.02-14.18.44:830][410]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board]
+[2022.10.02-14.18.44:830][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_Board]
+[2022.10.02-14.18.44:830][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.10.02-14.18.44:856][410]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board_Auto6495C216C44CEC6F5463B0DB367FDBF15.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto6.uasset'
+[2022.10.02-14.18.44:857][410]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.10.02-14.19.20:715][539]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chess/Blueprints/BP_GameMode.BP_GameMode
+[2022.10.02-14.22.59:301][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chess/Blueprints/BP_Player.BP_Player
+[2022.10.02-14.29.24:287][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.10.02-14.29.24:288][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-14.29.24:330][333]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto7B7FA459F4788AEE3FBAC6799D8B821D4.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto7.umap'
+[2022.10.02-14.29.24:331][333]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.078
+[2022.10.02-14.29.24:331][333]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2022.10.02-14.29.24:331][333]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_Board] ([1] browsable assets)...
+[2022.10.02-14.29.24:348][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board]
+[2022.10.02-14.29.24:348][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_Board]
+[2022.10.02-14.29.24:348][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.10.02-14.29.26:031][333]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board_Auto7F8FB98714EF6A5C512A4AAA1D8CCC079.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto7.uasset'
+[2022.10.02-14.29.26:033][333]LogFileHelpers: Auto-saving content packages took 1.702
+[2022.10.02-14.30.06:064][908]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-14.30.06:265][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.10.02-14.30.06:994][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset" SILENT=true
+[2022.10.02-14.30.07:023][947]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board575377D4401CF560A9E79D8371528B00.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset'
+[2022.10.02-14.30.07:037][947]AssetCheck: New page: Asset Save: BP_Board
+[2022.10.02-14.30.07:037][947]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board
+[2022.10.02-14.37.39:002][586]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-14.37.39:283][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.10.02-14.37.39:930][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-14.37.39:977][617]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare31894B7446F1438499B887BEAA264444.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-14.37.39:989][617]AssetCheck: New page: Asset Save: BP_BoardSquare
+[2022.10.02-14.37.39:989][617]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-14.38.24:909][792]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-14.38.25:114][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.10.02-14.38.26:128][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset" SILENT=true
+[2022.10.02-14.38.26:161][848]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board5DFC6C594AF523DBB534BBB012CAC325.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset'
+[2022.10.02-14.38.26:175][848]AssetCheck: New page: Asset Save: BP_Board
+[2022.10.02-14.38.26:175][848]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board
+[2022.10.02-14.39.24:523][407]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-14.39.24:730][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.10.02-14.42.35:446][337]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-14.42.35:665][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.10.02-14.43.00:524][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.10.02-14.43.00:524][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-14.43.00:567][447]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto81641E30243B49AC4B09A099EE6B47C55.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto8.umap'
+[2022.10.02-14.43.00:567][447]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.077
+[2022.10.02-14.43.00:567][447]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.077
+[2022.10.02-14.43.00:568][447]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_Board] ([1] browsable assets)...
+[2022.10.02-14.43.00:598][447]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board]
+[2022.10.02-14.43.00:598][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_Board]
+[2022.10.02-14.43.00:598][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.10.02-14.43.00:760][447]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board_Auto86C919C644370A37F8A29329726AC2A25.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto8.uasset'
+[2022.10.02-14.43.00:761][447]LogFileHelpers: Auto-saving content packages took 0.193
+[2022.10.02-14.44.10:020][479]LogEditorTransaction: Undo Create Pin Link
+[2022.10.02-14.48.38:312][186]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.10.02-14.48.38:312][186]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.10.02-14.49.08:982][743]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.10.02-14.49.08:982][743]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.10.02-14.49.09:498][774]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.10.02-14.49.09:499][774]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2022.10.02-14.49.10:096][808]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.10.02-14.49.10:096][808]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.10.02-14.49.57:788][677]LogEditorTransaction: Undo Change Parameter Type
+[2022.10.02-14.53.01:196][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.10.02-14.53.01:197][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-14.53.01:238][874]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto9E791DBDF404B5C76B9AC0A9C66BA7EA8.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto9.umap'
+[2022.10.02-14.53.01:239][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.083
+[2022.10.02-14.53.01:239][874]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2022.10.02-14.53.01:239][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_Board] ([1] browsable assets)...
+[2022.10.02-14.53.01:270][874]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board]
+[2022.10.02-14.53.01:270][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_Board]
+[2022.10.02-14.53.01:270][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2022.10.02-14.53.01:307][874]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board_Auto986383DB140E0A2C551A2ABAC92587E9E.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto9.uasset'
+[2022.10.02-14.53.01:308][874]LogFileHelpers: Auto-saving content packages took 0.069
+[2022.10.02-14.59.51:240][134]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-14.59.51:517][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.10.02-14.59.55:055][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-14.59.55:296][338]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquareCAE15DD04035BF32833F9893173E4A94.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-14.59.55:309][338]AssetCheck: New page: Asset Save: BP_BoardSquare
+[2022.10.02-14.59.55:309][338]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-15.03.54:643][585]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-15.03.54:865][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.10.02-15.03.55:594][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset" SILENT=true
+[2022.10.02-15.03.55:633][623]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board9BEE8F2445AD7A518BD640ABF71833CF.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset'
+[2022.10.02-15.03.55:647][623]AssetCheck: New page: Asset Save: BP_Board
+[2022.10.02-15.03.55:647][623]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board
+[2022.10.02-15.04.32:222][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.10.02-15.04.32:223][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-15.04.32:279][514]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto07C6D8AA941C5E369882FFF96C4630B71.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto0.umap'
+[2022.10.02-15.04.32:279][514]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.105
+[2022.10.02-15.04.32:279][514]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.105
+[2022.10.02-15.05.27:997][637]LogEditorTransaction: Undo Move Node
+[2022.10.02-15.05.29:434][707]LogEditorTransaction: Undo Create Reroute Node
+[2022.10.02-15.12.44:506][354]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-15.12.44:733][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.10.02-15.14.50:313][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.10.02-15.14.50:313][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-15.14.51:950][642]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto158B525934CE5501EB16B18A36A421908.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto1.umap'
+[2022.10.02-15.14.51:950][642]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 1.678
+[2022.10.02-15.14.51:950][642]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.678
+[2022.10.02-15.14.51:951][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_Board] ([1] browsable assets)...
+[2022.10.02-15.14.51:981][642]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board]
+[2022.10.02-15.14.51:981][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_Board]
+[2022.10.02-15.14.51:981][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.10.02-15.14.52:023][642]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board_Auto1EA56646A4792041E8FDBE8851D3B3FDC.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto1.uasset'
+[2022.10.02-15.14.52:023][642]LogFileHelpers: Auto-saving content packages took 0.073
+[2022.10.02-15.24.52:258][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.10.02-15.24.52:259][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-15.24.52:301][717]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto2595500524A9A9F52186BD3B8BF29F233.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto2.umap'
+[2022.10.02-15.24.52:302][717]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.089
+[2022.10.02-15.24.52:302][717]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.089
+[2022.10.02-15.24.52:303][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chess/Blueprints/Board/BP_Board] ([1] browsable assets)...
+[2022.10.02-15.24.52:333][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board]
+[2022.10.02-15.24.52:333][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chess/Blueprints/Board/BP_Board]
+[2022.10.02-15.24.52:333][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.10.02-15.24.54:017][717]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board_Auto25E44A4414C299CCCC9B2898EF9333740.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Blueprints/Board/BP_Board_Auto2.uasset'
+[2022.10.02-15.24.54:018][717]LogFileHelpers: Auto-saving content packages took 1.715
+[2022.10.02-15.35.07:150][788]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_GetComponentLocation' [Element not found.]
+[2022.10.02-15.35.12:252][ 93]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_GetComponentLocation' [Element not found.]
+[2022.10.02-15.35.56:607][  5]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-15.35.56:832][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.10.02-15.35.57:319][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset" SILENT=true
+[2022.10.02-15.35.57:364][ 30]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board7BA41BE644F77CB440BA6CAFFF1CE736.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset'
+[2022.10.02-15.35.57:379][ 30]AssetCheck: New page: Asset Save: BP_Board
+[2022.10.02-15.35.57:379][ 30]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board
+[2022.10.02-15.36.21:909][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.10.02-15.36.21:910][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Maps/TestMap1" FILE="../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.02-15.36.21:951][276]LogSavePackage: Moving '../../../Projects/Chess/Saved/TestMap1_Auto39662551B4091BC64B2ECC09704C670AE.tmp' to '../../../Projects/Chess/Saved/Autosaves/Game/Chess/Maps/TestMap1_Auto3.umap'
+[2022.10.02-15.36.21:951][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Chess/Maps/TestMap1' took 0.079
+[2022.10.02-15.36.21:951][276]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2022.10.02-15.37.46:457][938]BlueprintLog: New page: Compile BP_Board
+[2022.10.02-15.37.46:670][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.10.02-15.37.48:727][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_Board" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset" SILENT=true
+[2022.10.02-15.37.48:771][ 57]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_Board4D7EE4564EAD0BFEDB9C60A5CA31D3FA.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_Board.uasset'
+[2022.10.02-15.37.48:785][ 57]AssetCheck: New page: Asset Save: BP_Board
+[2022.10.02-15.37.48:785][ 57]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_Board.BP_Board
+[2022.10.02-15.40.35:076][661]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-15.40.35:390][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.10.02-15.40.36:071][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-15.40.37:169][691]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare1289E28E4CEC506ED46A5786E314DDDF.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-15.40.37:208][691]AssetCheck: New page: Asset Save: BP_BoardSquare
+[2022.10.02-15.40.37:208][691]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-15.42.01:409][870]BlueprintLog: New page: Compile BP_BoardSquare
+[2022.10.02-15.42.01:705][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.10.02-15.42.02:276][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chess/Blueprints/Board/BP_BoardSquare" FILE="../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset" SILENT=true
+[2022.10.02-15.42.02:324][894]LogSavePackage: Moving '../../../Projects/Chess/Saved/BP_BoardSquare0D2E2155419F4E495A9B0BA706E97BE5.tmp' to '../../../Projects/Chess/Content/Chess/Blueprints/Board/BP_BoardSquare.uasset'
+[2022.10.02-15.42.02:338][894]AssetCheck: New page: Asset Save: BP_BoardSquare
+[2022.10.02-15.42.02:338][894]LogContentValidation: Display: Validating Blueprint /Game/Chess/Blueprints/Board/BP_BoardSquare.BP_BoardSquare
+[2022.10.02-15.43.04:600][996]LogEditorTransaction: Undo Delete current selection
+[2022.10.02-15.43.35:533][549]LogUObjectArray: Warning: Other object in slot
+[2022.10.02-15.43.36:013][549]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.02-15.43.36:165][549]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.152 s
+[2022.10.02-15.43.36:165][549]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.02-15.43.36:165][549]LogOutputDevice: Error: 
+[2022.10.02-15.43.36:165][549]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2022.10.02-15.43.36:165][549]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2022.10.02-15.43.36:165][549]LogOutputDevice: Error: Stack: 
+[2022.10.02-15.43.36:165][549]LogOutputDevice: Error: [Callstack] 0x00007ffbba787b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.02-15.43.36:165][549]LogOutputDevice: Error: [Callstack] 0x00007ffbb9f9678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.02-15.43.36:165][549]LogOutputDevice: Error: [Callstack] 0x00007ffbb9fa409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffbb6e5c5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffbb58b977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffbb5871647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffbbdebb144 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffbbe0adc63 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffbbdf060b3 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffbbdee46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffbbded8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc0aa44ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc0aa3242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc0aa47195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc0aa2ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc36e81c4c USER32.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc36e80ea6 USER32.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc0aa48699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ff63e3b6db0 UE4Editor.exe!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ff63e3cc3ec UE4Editor.exe!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ff63e3cc4ca UE4Editor.exe!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ff63e3dceae UE4Editor.exe!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ff63e3dfcbe UE4Editor.exe!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc380454e0 KERNEL32.DLL!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: [Callstack] 0x00007ffc38cc485b ntdll.dll!UnknownFunction []
+[2022.10.02-15.43.36:166][549]LogOutputDevice: Error: 
+[2022.10.02-15.43.36:278][549]LogStats:                SubmitErrorReport -  0.000 s
